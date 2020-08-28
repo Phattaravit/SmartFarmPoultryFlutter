@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'Model/ListProductCf.dart';
-import 'package:sky_engine/_http/http.dart' as http;
 
 
 void main() => runApp(FeedUsage());
