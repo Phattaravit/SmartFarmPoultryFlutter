@@ -9,8 +9,9 @@ class SmartFarmPoultry extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primaryColor: Color(0xFF6C63FF),
-        accentColor: Color(0xFF6C63FF),
+        primaryColor: Colors.white,
+        accentColor: Colors.white,
+        //accentColor: Color(0xFF6C63FF),
       ),
       home: LoginScreen(),
     );
